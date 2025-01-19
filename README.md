@@ -7,7 +7,7 @@ Optimized Performance: Aims for fast and stable performance with efficient use o
 Virtual Environment: Tested in VirtualBox VM on a debloated Windows setup with 1GB RAM and 2 CPU cores allocated from the main CPU.
 
 Installation:
-Download the latest Indoors OS ISO from [Insert GitHub Page URL here].
+Download the latest Indoors OS ISO from [our github repository](https://github.com/UserofUser-s/Indoors/blob/main).
 Use a tool like Rufus or Etcher to create a bootable USB drive.
 Boot from the USB and follow the installation steps.
 Warning: Indoors OS is not a registered trademark or product. Any use of the Indoors OS name or logo without explicit permission is strictly prohibited. We do not condone the use of illegal activation.
